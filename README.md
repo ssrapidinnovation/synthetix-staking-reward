@@ -1,0 +1,1 @@
+# synthetix-staking-reward
