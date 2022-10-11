@@ -2,12 +2,16 @@
   "name": "hardhat-project",
   "dependencies": {
     "@defillama/sdk": "^2.3.106",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
     "@openzeppelin/contracts": "^4.7.3",
     "abi-decoder": "^2.4.0",
     "axios": "^1.1.2",
     "chai": "^4.3.6",
     "dotenv": "^16.0.3",
-    "solidifier": "^2.2.3"
+    "ganache-cli": "^6.12.2",
+    "hardhat": "^2.12.0",
+    "solidifier": "^2.2.3",
+    "solidity-coverage": "^0.8.2"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.1.1",
