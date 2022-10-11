@@ -1,0 +1,34 @@
+[
+	{
+		"asset": "USD",
+		"category": "forex",
+		"sign": "$",
+		"description": "US Dollars",
+		"name": "sUSD",
+		"subclass": "MultiCollateralSynth"
+	},
+	{
+		"asset": "ETH",
+		"category": "crypto",
+		"sign": "Ξ",
+		"description": "Ether",
+		"name": "sETH",
+		"subclass": "MultiCollateralSynth"
+	},
+	{
+		"asset": "BTC",
+		"category": "crypto",
+		"sign": "₿",
+		"description": "Bitcoin",
+		"name": "sBTC",
+		"subclass": "MultiCollateralSynth"
+	},
+	{
+		"asset": "LINK",
+		"category": "crypto",
+		"sign": "",
+		"description": "Chainlink",
+		"name": "sLINK",
+		"subclass": "MultiCollateralSynth"
+	}
+]
